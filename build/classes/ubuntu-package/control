@@ -1,8 +1,0 @@
-Package: ZCashSwingWalletUI
-Version: 0.69
-Section: misc
-Priority: low
-Architecture: all
-Description: ZCash Desktop GUI Wallet 
-Maintainer: ivan@vaklinov.com
-Depends: default-jdk, zcash
